@@ -99,7 +99,7 @@ enableEmoji = true
   series = "series"
   tag = "tags"
 
-[menu]
+[menu] ### this is to change the tabs
   [[menu.header]]
     name = "About"
     title = "About Blogophonic"
@@ -111,15 +111,20 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publication/"
+    weight = 3
+  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
