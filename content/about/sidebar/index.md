@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Cici Bauer"
-role: ""
+role: "Biostatistician,SPATIAL-TEMPORAL DATA SCIENTIST"
 avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
