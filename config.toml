@@ -93,6 +93,14 @@ enableEmoji = true
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
 #      url       = "/blog/index.xml"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0002-2337-7965"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=Tczg8ZoAAAAJ&hl=en"
 
 [taxonomies]
   category = "categories"
