@@ -4,7 +4,7 @@ subtitle: ""
 description: "This is my personal website."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/arbre.jpg
+  - img/CiciBauer_profile.jpg
 image_left: true
 text_align_left: false
 show_social_links: false # specify social accounts in site config

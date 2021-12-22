@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Cici Bauer"
 #  orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/mug.png"
+  logo = "/img/mug.png"
+  mainSections = ["blog", "publication", "project", "talk"]
   navallcaps = false ### if tabs are in capital letters or not
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -102,7 +102,7 @@ enableEmoji = true
 [menu] ### this is to change the tabs
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -112,7 +112,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Publications"
-    title = "Publications"
+    title = "Publication"
     url = "/publication/"
     weight = 3
   [[menu.header]]
