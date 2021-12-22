@@ -1,8 +1,0 @@
----
-title: What I have learned today
-author: R package build
-date: '2021-12-21'
-slug: []
-categories: []
-tags: []
----

@@ -2,7 +2,7 @@
 title: "About"
 description: 
 show_header: true
-sidebar_left: false
+sidebar_left: true
 # Keep this! Do not edit.
 cascade:
   headless: true
