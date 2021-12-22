@@ -3,12 +3,12 @@ title: A Blog That Works
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+author: "cici Bauer"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-sidebar 
+layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -27,7 +27,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Cici Bauer"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
